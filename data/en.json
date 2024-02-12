@@ -1,0 +1,928 @@
+{
+  "ffs2_7_1" : {
+    "type" : "mission",
+    "senderName" : "Nadya",
+    "portraitImage" : "/interface/chatbubbles/ffs_nadya.png:<frame>",
+    "text" : "^white;We're almost out of ammunition.\r\n..Sorry.                                      \r\nYou have to break through the line of defense by yourself.\r\nGood luck!"
+  },
+  "ffs2_7_cultist_1" : {
+    "type" : "mission",
+    "senderName" : "Cultist",
+    "portraitImage" : "/interface/chatbubbles/ffs_cultist.png:<frame>",
+    "text" : "^white;Damn!                                 \r\nWe must stop it at all costs!                  \r\nForward!"
+  },
+  "ffs2_7_cultist_2" : {
+    "type" : "mission",
+    "senderName" : "Cultist",
+    "portraitImage" : "/interface/chatbubbles/ffs_cultist.png:<frame>",
+    "text" : "^white;Air support has arrived!"
+  },
+  "ffs2_7_cultist_3" : {
+    "type" : "mission",
+    "senderName" : "Cultist",
+    "portraitImage" : "/interface/chatbubbles/ffs_cultist.png:<frame>",
+    "text" : "^white;Armored support has arrived!               \r\nWipe them out. All of them!"
+  },
+  "ffs2_8_1" : {
+    "type" : "mission",
+    "senderName" : "Nadya",
+    "portraitImage" : "/interface/chatbubbles/ffs_nadya.png:<frame>",
+    "text" : "^white;All we have to do is go over this hill!"
+  },
+  "ffs2_8_cultist_1" : {
+    "type" : "mission",
+    "senderName" : "Cultist",
+    "portraitImage" : "/interface/chatbubbles/ffs_cultist.png:<frame>",
+    "text" : "^white;The squadron has arrived!              \r\nAttack!"
+  },
+  "ffs2_9_1" : {
+    "type" : "mission",
+    "senderName" : "Nadya",
+    "portraitImage" : "/interface/chatbubbles/ffs_nadya.png:<frame>",
+    "text" : "^white;Hey, I found the PSS White Crow, ahead.\r\nMeet me there!"
+  },
+  "ffs2_9_2" : {
+    "type" : "mission",
+    "senderName" : "Player",
+    "portraitImage" : "/interface/chatbubbles/ffs_player.png:<frame>",
+    "text" : "^white;Hm? I heard something..\r\n...                                 \r\nEnemy squadron located! Nadya! Where are you?! \r\nI need air support! Right now!"
+  },
+  "ffs2_9_3" : {
+    "type" : "mission",
+    "senderName" : "Nadya",
+    "portraitImage" : "/interface/chatbubbles/ffs_nadya.png:<frame>",
+    "text" : "^white;Sorry! I'm already in-\r\n^green;*kffht*--"
+  },
+  "ffs2_9_4" : {
+    "type" : "mission",
+    "senderName" : "Chiquita",
+    "portraitImage" : "/interface/chatbubbles/ffs_chica_happy.png:<frame>",
+    "text" : "^white;Tally-ho!\r\nDid you miss me? Ahaha!"
+  },
+  "ffs2_9_5" : {
+    "type" : "mission",
+    "senderName" : "Player",
+    "portraitImage" : "/interface/chatbubbles/ffs_player.png:<frame>",
+    "text" : "^white;Chica!\r\nThank you!"
+  },
+  "ffs2_9_6" : {
+    "type" : "mission",
+    "senderName" : "Papacino",
+    "portraitImage" : "/interface/chatbubbles/ffs_papachino.png:<frame>",
+    "text" : "^white;HA!HA!HA!HA!HA!HA!HA!HA!HA!Hargh-\r\n...                           \r\n^green;*Cough! Cough!"
+  },
+  "ffs2_9_7" : {
+    "type" : "mission",
+    "senderName" : "Player",
+    "portraitImage" : "/interface/chatbubbles/ffs_player.png:<frame>",
+    "text" : "^white;Well done, Papacino!\r\nI should buy something from him."
+  },
+  "ffs2_e_1" : {
+    "type" : "mission",
+    "senderName" : "Player",
+    "portraitImage" : "/interface/chatbubbles/ffs_player.png:<frame>",
+    "text" : "^green;*You've found the White Crow in the field of massacre."
+  },
+  "ffs2_e_2" : {
+    "type" : "mission",
+    "senderName" : "Player",
+    "portraitImage" : "/interface/chatbubbles/ffs_player.png:<frame>",
+    "text" : "^green;*I can see the members of the dropship nearby."
+  },
+  "ffs2_e_3" : {
+    "type" : "mission",
+    "senderName" : "Papacino",
+    "portraitImage" : "/interface/chatbubbles/ffs_papachino.png:<frame>",
+    "text" : "^green;*He don't look well.\r\n^reset;I have nothing to say to Breadnut, but we don't know what's going on inside the ship, yet. Make sure you're ready before we breach. \r\nMe and Chica are wary of the outside."
+  },
+  "ffs2_e_4" : {
+    "type" : "mission",
+    "senderName" : "Chiquita",
+    "portraitImage" : "/interface/chatbubbles/ffs_chica.png:<frame>",
+    "text" : "^white;Just, Bring them to me alive.\r\nThen, I can still treat them.\r\nAnd...                                \r\nBe careful."
+  },
+  "ffs2_f_1" : {
+    "type" : "mission",
+    "senderName" : "Player",
+    "portraitImage" : "/interface/chatbubbles/ffs_player.png:<frame>",
+    "text" : "^green;*You hear gunfire."
+  },
+  "ffs2_f_2" : {
+    "type" : "mission",
+    "senderName" : "Player",
+    "portraitImage" : "/interface/chatbubbles/ffs_player.png:<frame>",
+    "text" : "^green;*A door is opened somewhere."
+  },
+  "ffs2_f_3" : {
+    "type" : "mission",
+    "senderName" : "Player",
+    "portraitImage" : "/interface/chatbubbles/ffs_player.png:<frame>",
+    "text" : "^green;*The SRS flag is torn apart."
+  },
+  "ffs2_f_4" : {
+    "type" : "mission",
+    "senderName" : "Player",
+    "portraitImage" : "/interface/chatbubbles/ffs_player.png:<frame>",
+    "text" : "^green;*You can hear the sound of gunfire nearby.\r\n^white;I think the storage sector is this way."
+  },
+  "ffs2_f_cultist_1" : {
+    "type" : "mission",
+    "senderName" : "High Cultist",
+    "portraitImage" : "/interface/chatbubbles/ffs_high_cultist.png:<frame>",
+    "text" : "^white;Who's there..?\r\nAh.... the smell of a fresh sacrifice...\r\nCome on, Come to me...  Come closer...\r\n^red;Ahahahah-haha-AHAHAHAHAHAHAH-HAHA!"
+  },
+  "ffs2_f_cultist_2" : {
+    "type" : "mission",
+    "senderName" : "High Cultist",
+    "portraitImage" : "/interface/chatbubbles/ffs_high_cultist.png:<frame>",
+    "text" : "^white;This is not SRS flesh..\r\nHm..                                 \r\n^red;Interesting."
+  },
+  "ffs2_f2_1" : {
+    "type" : "mission",
+    "senderName" : "Player",
+    "portraitImage" : "/interface/chatbubbles/ffs_player.png:<frame>",
+    "text" : "^white;Ok, Let's do this."
+  },
+  "ffs2_f2_2" : {
+    "type" : "mission",
+    "senderName" : "High Cultist",
+    "portraitImage" : "/interface/chatbubbles/ffs_high_cultist.png:<frame>",
+    "text" : "^red;Kill them all!!"
+  },
+  "ffs2_f2_3" : {
+    "type" : "mission",
+    "senderName" : "Sgt.Max",
+    "portraitImage" : "/interface/chatbubbles/ffs_max.png:<frame>",
+    "text" : "^white;Blue team, Fire at will!"
+  },
+  "ffs2_f2_4" : {
+    "type" : "mission",
+    "senderName" : "Sgt.Max",
+    "portraitImage" : "/interface/chatbubbles/ffs_max.png:<frame>",
+    "text" : "^white;I'm really grateful for what you've done. Thanks to you, we were able to protect the civilians. The SRS Director General? ..No. I don't think she's here. ^green;You can find her by checking that sensor.^white; Try it."
+  },
+  "ffs2_f2_5" : {
+    "type" : "mission",
+    "senderName" : "Sgt.Max",
+    "portraitImage" : "/interface/chatbubbles/ffs_max.png:<frame>",
+    "text" : "^white;Did you find her? No?..Sorry to hear that. ^green;Maybe you can find her in the Medical bay, Sector 2. ^white;Let's get back to lobby."
+  },
+  "ffs2_f2_6" : {
+    "type" : "mission",
+    "senderName" : "Sgt.Max",
+    "portraitImage" : "/interface/chatbubbles/ffs_max.png:<frame>",
+    "text" : "^white;I'm sorry that I can't give you time to rest. But, We have to assist medicalbay right now. Our red team went to support, but we lost contact. Maybe they are already under attack by multiple enemies."
+  },
+  "ffs2_f2_7" : {
+    "type" : "mission",
+    "senderName" : "Sgt.Max",
+    "portraitImage" : "/interface/chatbubbles/ffs_max.png:<frame>",
+    "text" : "^white;Cultists... They already overran Sector 2.\r\nAgent, We can move to another Sector by using this tram.\r\nLet's go!"
+  },
+  "ffs2_f2_8" : {
+    "type" : "mission",
+    "senderName" : "SWAT Blue team",
+    "portraitImage" : "/interface/chatbubbles/ffs_swat_blue.png:<frame>",
+    "text" : "^white;Commander, Get on the tram.\r\nWe'll follow you."
+  },
+  "ffs2_f2_9" : {
+    "type" : "mission",
+    "senderName" : "SWAT Red team",
+    "portraitImage" : "/interface/chatbubbles/ffs_swat_red.png:<frame>",
+    "text" : "^white;Sir! We have suffered heavy casualties!\r\nCultists have already taken control of this passage!\r\nWe're the only ones left.\r\nWhat do we do, sir?"
+  },
+  "ffs2_f2_10" : {
+    "type" : "mission",
+    "senderName" : "Sgt.Max",
+    "portraitImage" : "/interface/chatbubbles/ffs_max.png:<frame>",
+    "text" : "^white;Calling all Protectorate Agents, this is the Commander.\r\nFollow Agent's lead."
+  },
+  "ffs2_f2_11" : {
+    "type" : "mission",
+    "senderName" : "SWAT Red team",
+    "portraitImage" : "/interface/chatbubbles/ffs_swat_red.png:<frame>",
+    "text" : "^white;Sir, Yes sir!"
+  },
+  "ffs2_f2_12" : {
+    "type" : "mission",
+    "senderName" : "Sgt.Max",
+    "portraitImage" : "/interface/chatbubbles/ffs_max.png:<frame>",
+    "text" : "^white;Hm..This door is locked.\r\nSoldier, Is there any other route?"
+  },
+  "ffs2_f2_13" : {
+    "type" : "mission",
+    "senderName" : "SWAT Red team",
+    "portraitImage" : "/interface/chatbubbles/ffs_swat_red.png:<frame>",
+    "text" : "^white;Yes sir. \r\nBut, we have locked the door to keep out... the monsters."
+  },
+  "ffs2_f2_14" : {
+    "type" : "mission",
+    "senderName" : "Sgt.Max",
+    "portraitImage" : "/interface/chatbubbles/ffs_max.png:<frame>",
+    "text" : "^white;Strange.. \r\nWhere are the bodies of our fallen soldiers?\r\n..Wait, monsters? \r\nExplain it in detail."
+  },
+  "ffs2_f2_15" : {
+    "type" : "mission",
+    "senderName" : "SWAT Red team",
+    "portraitImage" : "/interface/chatbubbles/ffs_swat_red.png:<frame>",
+    "text" : "^white;Yes sir. While the SRS agent reinforced the wall, we tried to seal the door from the outside amid enemy summoners' attacks. But, at the end of the sealing... A big swarm of... That! ^red;Our squad was ambushed by swarm of giant spiders!"
+  },
+  "ffs2_f2_16" : {
+    "type" : "mission",
+    "senderName" : "SWAT Blue team",
+    "portraitImage" : "/interface/chatbubbles/ffs_swat_blue_dying.png:<frame>",
+    "text" : "^red;*cough\r\n^white;It was an honor to serve with you.. sir.\r\n..."
+  },
+  "ffs2_f2_17" : {
+    "type" : "mission",
+    "senderName" : "Sgt.Max",
+    "portraitImage" : "/interface/chatbubbles/ffs_max_sorrow.png:<frame>",
+    "text" : "^white;..                                   \r\nTake some rest, soldier."
+  },
+  "ffs2_f2_18" : {
+    "type" : "mission",
+    "senderName" : "Sgt.Max",
+    "portraitImage" : "/interface/chatbubbles/ffs_max.png:<frame>",
+    "text" : "^white;..Agent, Don't get me wrong. This is not your fault.\r\nWe should have come here earlier for a search and rescue mission, but we were too late. Thanks to you, we were able to minimize the damage.\r\nThank you."
+  },
+  "ffs2_f2_19" : {
+    "type" : "mission",
+    "senderName" : "Sgt.Max",
+    "portraitImage" : "/interface/chatbubbles/ffs_max.png:<frame>",
+    "text" : "^white;I hope you can find what you're looking for, here."
+  },
+  "ffs2_f2_20" : {
+    "type" : "mission",
+    "senderName" : "Pvt.Jessie",
+    "portraitImage" : "/interface/chatbubbles/ffs_jessie.png:<frame>",
+    "text" : "^white;Sir! You made it!\r\nWhat about the others?\r\n...Yes?                         \r\nNo, it's impossible.. It can't be."
+  },
+  "ffs2_f2_21" : {
+    "type" : "mission",
+    "senderName" : "Sgt.Max",
+    "portraitImage" : "/interface/chatbubbles/ffs_max.png:<frame>",
+    "text" : "^white;Keep your cool, private. Remember. We've lost a lot of brave soldiers, but if we make a mistake here, we'll lose more.\r\nNow.. Where is the officer? Who's in charge here?"
+  },
+  "ffs2_f2_22" : {
+    "type" : "mission",
+    "senderName" : "Pvt.Jessie",
+    "portraitImage" : "/interface/chatbubbles/ffs_jessie.png:<frame>",
+    "text" : "^white;..y.. Yes sir. Lieutenant Alice was with me, but not anymore. She was transferred to another Sector after becoming heavily wounded.. And the others ..uh..just have basic pistol training. I'm the only one with military training here, sir."
+  },
+  "ffs2_f2_23" : {
+    "type" : "mission",
+    "senderName" : "Sgt.Max",
+    "portraitImage" : "/interface/chatbubbles/ffs_max.png:<frame>",
+    "text" : "^white;..Ok, Thank you.\r\nFrom now on, you'll serve under the command of this brave Agent. Do not disappoint me, Private."
+  },
+  "ffs2_f2_24" : {
+    "type" : "mission",
+    "senderName" : "Pvt.Jessie",
+    "portraitImage" : "/interface/chatbubbles/ffs_jessie.png:<frame>",
+    "text" : "^white;Sir, Yes sir!\r\nI'm private jessie, Uh.. commander."
+  },
+  "ffs2_f2_25" : {
+    "type" : "mission",
+    "senderName" : "Player",
+    "portraitImage" : "/interface/chatbubbles/ffs_player.png:<frame>",
+    "text" : "^white;Thank you jessie.\r\nHave you seen the SRS director general? \r\nI have to contact her."
+  },
+  "ffs2_f2_26" : {
+    "type" : "mission",
+    "senderName" : "Pvt.Jessie",
+    "portraitImage" : "/interface/chatbubbles/ffs_jessie.png:<frame>",
+    "text" : "^white;Ah, Yes, Commander.\r\nBut after she transferred Lieutenant Alice, she went fetch military stimpacks from the armory.. By herself."
+  },
+  "ffs2_f2_27" : {
+    "type" : "mission",
+    "senderName" : "Sgt.Max",
+    "portraitImage" : "/interface/chatbubbles/ffs_max.png:<frame>",
+    "text" : "^white;..Alone?\r\nYou mean the general went through that bloody nightmare all by herself?"
+  },
+  "ffs2_f2_28" : {
+    "type" : "mission",
+    "senderName" : "Pvt.Jessie",
+    "portraitImage" : "/interface/chatbubbles/ffs_jessie.png:<frame>",
+    "text" : "^white;Yes sir.\r\nShe insisted I stay here, so I can protect these people.\r\n...                                    \r\nShould I.. have followed her?"
+  },
+  "ffs2_f2_29" : {
+    "type" : "mission",
+    "senderName" : "Player",
+    "portraitImage" : "/interface/chatbubbles/ffs_player.png:<frame>",
+    "text" : "^white;No, Jessie. It was right of you to stay here. You protected many lives. Anyway, We need to check the armory. But first.. How can we evacuate these civillians? The Main passage is too dangerous to take them through."
+  },
+  "ffs2_f2_30" : {
+    "type" : "mission",
+    "senderName" : "Pvt.Jessie",
+    "portraitImage" : "/interface/chatbubbles/ffs_jessie.png:<frame>",
+    "text" : "^white;Sir. We have an emergency exit to the east. It's close. However, The Emergency Backup Generator needs to be activated to open the barrier.\r\nI coudn't activate it.. Because I can't protect everyone alone."
+  },
+  "ffs2_f2_31" : {
+    "type" : "mission",
+    "senderName" : "Sgt.Max",
+    "portraitImage" : "/interface/chatbubbles/ffs_max.png:<frame>",
+    "text" : "^white;You did well, Private.\r\nAnd-                                     \r\n.. Wait. Agent, Did you hear that?"
+  },
+  "ffs2_f2_32" : {
+    "type" : "mission",
+    "senderName" : "Pvt.Jessie",
+    "portraitImage" : "/interface/chatbubbles/ffs_jessie.png:<frame>",
+    "text" : "^white;Oh, no..!\r\nThey are coming! The spiders!\r\n^green;Commander! We have to activate the Emergency Generator, right now!!^white;"
+  },
+  "ffs2_f2_33" : {
+    "type" : "mission",
+    "senderName" : "Sgt.Max",
+    "portraitImage" : "/interface/chatbubbles/ffs_max.png:<frame>",
+    "text" : "^white;Agent. Private. Be ready.\r\nIncoming!"
+  },
+  "ffs2_f2_34" : {
+    "type" : "mission",
+    "senderName" : "Player",
+    "portraitImage" : "/interface/chatbubbles/ffs_player.png:<frame>",
+    "text" : "^white;This way!"
+  },
+  "ffs2_f3_1" : {
+    "type" : "mission",
+    "senderName" : "Pvt.Jessie",
+    "portraitImage" : "/interface/chatbubbles/ffs_jessie.png:<frame>",
+    "text" : "^white;Good! We have saved many lives.\r\nNext stop is the armory, right?\r\nLet's go, Commander!"
+  },
+  "ffs2_f3_2" : {
+    "type" : "mission",
+    "senderName" : "Sgt.Max",
+    "portraitImage" : "/interface/chatbubbles/ffs_max.png:<frame>",
+    "text" : "^white;Agent, The armory entrance is the eastern door of the lobby on the first floor.\r\nLet's move."
+  },
+  "ffs2_f3_3" : {
+    "type" : "mission",
+    "senderName" : "Pvt.Jessie",
+    "portraitImage" : "/interface/chatbubbles/ffs_jessie.png:<frame>",
+    "text" : "^white;Huh? Why is this place so empty?\r\nHey--! Guards--!\r\nWhere are they?"
+  },
+  "ffs2_f3_4" : {
+    "type" : "mission",
+    "senderName" : "Sgt.Max",
+    "portraitImage" : "/interface/chatbubbles/ffs_max.png:<frame>",
+    "text" : "^white;Draw your weapon. Something isn't right here.\r\nAgent, we're close to the armory.\r\nWhen the east door opens, run without looking back.\r\nWe'll cover you; We've got your back."
+  },
+  "ffs2_f3_5" : {
+    "type" : "mission",
+    "senderName" : "Pvt.Jessie",
+    "portraitImage" : "/interface/chatbubbles/ffs_jessie.png:<frame>",
+    "text" : "^white;Eh?\r\nSir, Really?\r\n^red;Kyaaaaaaaaaaaa!!"
+  },
+  "ffs2_f3_6" : {
+    "type" : "mission",
+    "senderName" : "Player",
+    "portraitImage" : "/interface/chatbubbles/ffs_player.png:<frame>",
+    "text" : "^white;Let's check the armory before it's too late."
+  },
+  "ffs2_f3_7" : {
+    "type" : "mission",
+    "senderName" : "???",
+    "portraitImage" : "/interface/chatbubbles/ffs_lily.png:<frame>",
+    "text" : "^white;Alice, don't lose your mind. We're almost there.\r\n..DAMNIT, the way is blocked! Where is the lever for the emergency door release..? \r\nWait, Who's there?\r\nAh.. Just more of the Ruin's shit, aren't you?!"
+  },
+  "ffs2_f3_8" : {
+    "type" : "mission",
+    "senderName" : "High Cultist",
+    "portraitImage" : "/interface/chatbubbles/ffs_high_cultist.png:<frame>",
+    "text" : "^white;Kill that bitch.\r\n..And make sure she suffers. With the utmost pain.."
+  },
+  "ffs2_f3_9" : {
+    "type" : "mission",
+    "senderName" : "???",
+    "portraitImage" : "/interface/chatbubbles/ffs_lily_smile.png:<frame>",
+    "text" : "^white;Heh- You wanna kill me?\r\nGive me a truckload of nox then, Not you scumbags! HA!"
+  },
+  "ffs2_f3_10" : {
+    "type" : "mission",
+    "senderName" : "???",
+    "portraitImage" : "/interface/chatbubbles/ffs_lily_smile.png:<frame>",
+    "text" : "^white;Who's in the vent?\r\nSRS? Protectorate? Whoever you are, We need your help.\r\nDo you hear me?"
+  },
+  "ffs2_f3_11" : {
+    "type" : "mission",
+    "senderName" : "Lt.Alice",
+    "portraitImage" : "/interface/chatbubbles/ffs_alice_hurt.png:<frame>",
+    "text" : "^white;Ugh.."
+  },
+  "ffs2_f3_12" : {
+    "type" : "mission",
+    "senderName" : "???",
+    "portraitImage" : "/interface/chatbubbles/ffs_lily.png:<frame>",
+    "text" : "^white;Shh, Alice. It's going to be okay..\r\nCalm down. Take it slow, Take deep breaths.\r\nHey, you! ^green;Go east from there, and find the armory.^white;\r\nRight now! Go!"
+  },
+  "ffs2_f3_13" : {
+    "type" : "mission",
+    "senderName" : "Player",
+    "portraitImage" : "/interface/chatbubbles/ffs_player.png:<frame>",
+    "text" : "^white;Ok. I've found the armory.\r\nAnd also.. some buttons.\r\n9 red buttons."
+  },
+  "ffs2_f3_14" : {
+    "type" : "mission",
+    "senderName" : "???",
+    "portraitImage" : "/interface/chatbubbles/ffs_lily.png:<frame>",
+    "text" : "^white;Red buttons? Not a lever? Holy crap..\r\nUh, wait a sec.. Aaaargh, You ugly little poptop-\r\n^green;*cultist's scream"
+  },
+  "ffs2_f3_15" : {
+    "type" : "mission",
+    "senderName" : "???",
+    "portraitImage" : "/interface/chatbubbles/ffs_lily.png:<frame>",
+    "text" : "^white;Whew, Hey! Listen to me, and listen carefully! I'm going to tell you the button combinations for the door. Push the buttons, in the order I tell you. ^green;7.6.1.2^white;! I repeat, ^green;7.6.1.2^white;!"
+  },
+  "ffs2_f3_16" : {
+    "type" : "mission",
+    "senderName" : "Player",
+    "portraitImage" : "/interface/chatbubbles/ffs_player.png:<frame>",
+    "text" : "^white;Negative! Password is incorrect. Door has not opened!\r\n..                                   \r\nAnd I don't think I'm alone here!!\r\nTell me another password ASAP!"
+  },
+  "ffs2_f3_17" : {
+    "type" : "mission",
+    "senderName" : "???",
+    "portraitImage" : "/interface/chatbubbles/ffs_lily.png:<frame>",
+    "text" : "^white;We're not alone either! Stop whining!\r\nUrgh, I'm thinking!                        \r\nAaaaaaaaaaaargh!                   \r\n^green;6.8.1.3^white;! I repeat! ^green;6.8.1.3^white;!                "
+  },
+  "ffs2_f3_18" : {
+    "type" : "mission",
+    "senderName" : "???",
+    "portraitImage" : "/interface/chatbubbles/ffs_lily.png:<frame>",
+    "text" : "^white;No?\r\n^green;7.8.4.6^white;!                                  \r\nI repeat!^green;7.8.4..^white;.. Wait a minute. That's Breadnut's safe number. Nevermind!\r\n^white;Try this one instead.. ^green;1.2.3.4^white;!                            "
+  },
+  "ffs2_f3_19" : {
+    "type" : "mission",
+    "senderName" : "???",
+    "portraitImage" : "/interface/chatbubbles/ffs_lily.png:<frame>",
+    "text" : "^white;Doesn't work?? Really? Ok-\r\n^green;9.7.1.4^white;!                                  \r\nI repeat!                                 \r\n^green;9.7.1.4^white;!                            "
+  },
+  "ffs2_f3_20" : {
+    "type" : "mission",
+    "senderName" : "???",
+    "portraitImage" : "/interface/chatbubbles/ffs_lily.png:<frame>",
+    "text" : "^white;I don't think the password in the armory has changed..\r\n^green;2.5.8.9^white;!                                  \r\nI repeat! ^green;2.5.8.9^white;!                            "
+  },
+  "ffs2_f3_21" : {
+    "type" : "mission",
+    "senderName" : "Lt.Alice",
+    "portraitImage" : "/interface/chatbubbles/ffs_alice_hurt.png:<frame>",
+    "text" : "^white;No...It's.... already... changed... ^green;1^white;..\r\n^green;4^white;..*Gasp                                     \r\n^green;5^white;...                                              \r\n......^green;9^white;"
+  },
+  "ffs2_f3_22" : {
+    "type" : "mission",
+    "senderName" : "???",
+    "portraitImage" : "/interface/chatbubbles/ffs_lily.png:<frame>",
+    "text" : "^white;NICE ALICE!\r\n1.4.5.9!                                           \r\nI repeat! ^green;1.4.5.9^white;                                  \r\nOpen the door and give me the god damn No.603 Stimpak! Right now!"
+  },
+  "ffs2_f3_23" : {
+    "type" : "mission",
+    "senderName" : "Player",
+    "portraitImage" : "/interface/chatbubbles/ffs_player.png:<frame>",
+    "text" : "^white;Copy.\r\nGive me a moment!"
+  },
+  "ffs2_f4_1" : {
+    "type" : "mission",
+    "senderName" : "Lt.Alice",
+    "portraitImage" : "/interface/chatbubbles/ffs_alice.png:<frame>",
+    "text" : "^white;Ah!- Hah.. Ah.. I almost died. Thank you, Agent.."
+  },
+  "ffs2_f4_2" : {
+    "type" : "mission",
+    "senderName" : "???",
+    "portraitImage" : "/interface/chatbubbles/ffs_lily.png:<frame>",
+    "text" : "^white;Hm. I didn't know you are a protectorate agent. I thought all of you protectorate were wiped out.. except maybe the SCAA units from the USCM. I'm major Lily. Director General of SRS. Ah, Don't worry about the ranks. I don't care."
+  },
+  "ffs2_f4_3" : {
+    "type" : "mission",
+    "senderName" : "Player",
+    "portraitImage" : "/interface/chatbubbles/ffs_player.png:<frame>",
+    "text" : "^white;Yes, ma'am.\r\nDid I hear that right? The USCM? That association of trigger-happy humans? I heard they were excluded from the vigilance list of The Protectorate. Aren't they the puppets of Apex, now?"
+  },
+  "ffs2_f4_4" : {
+    "type" : "mission",
+    "senderName" : "Maj.Lily",
+    "portraitImage" : "/interface/chatbubbles/ffs_lily.png:<frame>",
+    "text" : "^white;No, Not the Apex, but big-A.. Oh, you know, it was classified.\r\nBut, yes. They're almost puppets. Almost.\r\nAlice knows the story of them very well. Alice?"
+  },
+  "ffs2_f4_5" : {
+    "type" : "mission",
+    "senderName" : "Lt.Alice",
+    "portraitImage" : "/interface/chatbubbles/ffs_alice.png:<frame>",
+    "text" : "^white;Yes, ma'am. 90~95% of USCM members were already brainwashed and drugged by the Apex. We've already had sporadic, but small conflicts with them, as well. I'm sure most of them are just armed robbers except for the few troops."
+  },
+  "ffs2_f4_6" : {
+    "type" : "mission",
+    "senderName" : "Player",
+    "portraitImage" : "/interface/chatbubbles/ffs_player.png:<frame>",
+    "text" : "^white;Few troops.\r\nLike SCAA?"
+  },
+  "ffs2_f4_7" : {
+    "type" : "mission",
+    "senderName" : "Lt.Alice",
+    "portraitImage" : "/interface/chatbubbles/ffs_alice.png:<frame>",
+    "text" : "^white;Yes. Situation Control And Assault. They have been deployed on long distance missions, a long time ago.\r\nBecause of the separation, they were able to notice the anomalies at the USCM and acted independently."
+  },
+  "ffs2_f4_8" : {
+    "type" : "mission",
+    "senderName" : "Maj.Lily",
+    "portraitImage" : "/interface/chatbubbles/ffs_lily.png:<frame>",
+    "text" : "^white;Why is this place so sticky? Oh..\r\nThat is bad news.. This place is covered in spider webs. \r\nI really hate spiders."
+  },
+  "ffs2_f4_10" : {
+    "type" : "mission",
+    "senderName" : "Lt.Alice",
+    "portraitImage" : "/interface/chatbubbles/ffs_alice.png:<frame>",
+    "text" : "^white;Isn't the spider cute? Though.. There's something wrong with these guys. They remind me of the black widow spiders!\r\nBlack, glossy appearance, beautiful eyes and..\r\n(*She stares lily.)"
+  },
+  "ffs2_f4_11" : {
+    "type" : "mission",
+    "senderName" : "Maj.Lily",
+    "portraitImage" : "/interface/chatbubbles/ffs_lily_smile.png:<frame>",
+    "text" : "^white;And..                                      \r\nWings?\r\nwith black, glossy eyes......Aw.\r\nIt reminds me of cockro-"
+  },
+  "ffs2_f4_14" : {
+    "type" : "mission",
+    "senderName" : "Lt.Alice",
+    "portraitImage" : "/interface/chatbubbles/ffs_alice_upset.png:<frame>",
+    "text" : "^white;No, NO, NO! It doesn't! ^green;*Sigh^white;                  \r\nAnyway.. Agent, listen. This tunnel is a maintenance passage. If we get through here, we can meet up with the engineering squadron. I think we're almost there."
+  },
+  "ffs2_f4_16" : {
+    "type" : "mission",
+    "senderName" : "???",
+    "portraitImage" : "/interface/chatbubbles/ffs_rebecca.png:<frame>",
+    "text" : "^white;Yes-! I did it!!  ...Wait, wha--?         \r\nOh!\r\nStaff Sergeant Rebecca reporting, ma'am!\r\n..Hey, Nemui. Wake up."
+  },
+  "ffs2_f4_17" : {
+    "type" : "mission",
+    "senderName" : "???",
+    "portraitImage" : "/interface/chatbubbles/ffs_nemui.png:<frame>",
+    "text" : "^white;...                              \r\n..?                        \r\n....?                   \r\n..Mom.. Five more minutes..."
+  },
+  "ffs2_f4_18" : {
+    "type" : "mission",
+    "senderName" : "Lt.Alice",
+    "portraitImage" : "/interface/chatbubbles/ffs_alice.png:<frame>",
+    "text" : "^white;..Mom?                           \r\nUh, where are the others?\r\nIs this all of you? Where is everyone else?"
+  },
+  "ffs2_f4_19" : {
+    "type" : "mission",
+    "senderName" : "PFC.Nemui",
+    "portraitImage" : "/interface/chatbubbles/ffs_nemui.png:<frame>",
+    "text" : "^white;Dead. Meh-\r\n^green;*Yawn"
+  },
+  "ffs2_f4_20" : {
+    "type" : "mission",
+    "senderName" : "SSG.Rebecca",
+    "portraitImage" : "/interface/chatbubbles/ffs_rebecca.png:<frame>",
+    "text" : "^white;...Nemu- Show some respect..! Ma'am!! Our engineering team was divided into different groups in order to solve the numerous problems we have encountered in the engine bay! But we lost contact with the other groups and most of our groups are M.I.A."
+  },
+  "ffs2_f4_21" : {
+    "type" : "mission",
+    "senderName" : "SSG.Rebecca",
+    "portraitImage" : "/interface/chatbubbles/ffs_rebecca.png:<frame>",
+    "text" : "^white;We have successfully enabled manual control on the required systems, but the effective lockdown has sealed the exit. ^green;We have to control the quadruple gate seals manually.^white; Of course, opening the gate seals will mean that spiders will come back."
+  },
+  "ffs2_f4_22" : {
+    "type" : "mission",
+    "senderName" : "Maj.Lily",
+    "portraitImage" : "/interface/chatbubbles/ffs_lily.png:<frame>",
+    "text" : "^white;Well, it seems there is no other option.\r\nLet's move!"
+  },
+  "ffs2_f4_23" : {
+    "type" : "mission",
+    "senderName" : "Lt.Alice",
+    "portraitImage" : "/interface/chatbubbles/ffs_alice.png:<frame>",
+    "text" : "^white;I heard White Crow's engines are always refueled from the teleporter, But I've never seen it before.\r\n..Hm? What is this chest?"
+  },
+  "ffs2_f4_24" : {
+    "type" : "mission",
+    "senderName" : "Maj.Lily",
+    "portraitImage" : "/interface/chatbubbles/ffs_lily.png:<frame>",
+    "text" : "^white;So, This is it.\r\nHey, Rebecca. What do we do now?"
+  },
+  "ffs2_f4_25" : {
+    "type" : "mission",
+    "senderName" : "PFC.Nemui",
+    "portraitImage" : "/interface/chatbubbles/ffs_nemui.png:<frame>",
+    "text" : "^white;Pull the lever. Kill the spiders-\r\n^green;*Yawn"
+  },
+  "ffs2_f4_26" : {
+    "type" : "mission",
+    "senderName" : "Maj.Lily",
+    "portraitImage" : "/interface/chatbubbles/ffs_lily_smile.png:<frame>",
+    "text" : "^white;Hm...                      \r\nNemui- Since you're so tired, might I suggest you take a stimulant shot?\r\nIt's very.... ^red;Powerful."
+  },
+  "ffs2_f4_27" : {
+    "type" : "mission",
+    "senderName" : "PFC.Nemui",
+    "portraitImage" : "/interface/chatbubbles/ffs_nemui_scared.png:<frame>",
+    "text" : "^green;(Her face turned blue.)\r\n^white;No, No thank you, ma'am! I'm good now!"
+  },
+  "ffs2_f4_28" : {
+    "type" : "mission",
+    "senderName" : "Maj.Lily",
+    "portraitImage" : "/interface/chatbubbles/ffs_lily_smile.png:<frame>",
+    "text" : "^white;Copy that, Private.\r\nLet's do this."
+  },
+  "ffs2_f4_29" : {
+    "type" : "mission",
+    "senderName" : "SSG.Rebecca",
+    "portraitImage" : "/interface/chatbubbles/ffs_rebecca.png:<frame>",
+    "text" : "^white;Yes! Yes!! We did it!!\r\nAhhh! I can finally take a shower!"
+  },
+  "ffs2_f4_30" : {
+    "type" : "mission",
+    "senderName" : "Lt.Alice",
+    "portraitImage" : "/interface/chatbubbles/ffs_alice.png:<frame>",
+    "text" : "^white;..Sorry, rebecca.\r\nI don't think this is over yet. That shower will have to wait."
+  },
+  "ffs2_f4_31" : {
+    "type" : "mission",
+    "senderName" : "SSG.Rebecca",
+    "portraitImage" : "/interface/chatbubbles/ffs_rebecca.png:<frame>",
+    "text" : "^white;..Eh?"
+  },
+  "ffs2_f5_1" : {
+    "type" : "mission",
+    "senderName" : "Col.Xander",
+    "portraitImage" : "/interface/chatbubbles/ffs_xander.png:<frame>",
+    "text" : "^white;Agent, Thank you for your help.\r\nI'm Colonel Xander, Commander of the Protectorate Security and Captain of this ship. The command room was almost sealed by the cultists, but with your help, we were able to break through."
+  },
+  "ffs2_f5_2" : {
+    "type" : "mission",
+    "senderName" : "Col.Xander",
+    "portraitImage" : "/interface/chatbubbles/ffs_xander.png:<frame>",
+    "text" : "^white;This is no time for celebration, however. This is far from over, and we are on the verge of an important battle.\r\nPlease, help us. Protect our people."
+  },
+  "ffs2_f5_3" : {
+    "type" : "mission",
+    "senderName" : "Col.Xander",
+    "portraitImage" : "/interface/chatbubbles/ffs_xander.png:<frame>",
+    "text" : "^white;Prepare your supplies, and join Max on the front line of defense.\r\nWe have to keep the Engine Bay safe until the engineering team prepares the White Crow for a long-range leap.\r\nGood luck."
+  },
+  "ffs2_f5_4" : {
+    "type" : "mission",
+    "senderName" : "Sgt.Max",
+    "portraitImage" : "/interface/chatbubbles/ffs_max.png:<frame>",
+    "text" : "^white;Yes sir.\r\nJessie, Blue team, with me.\r\nAgent..                                    \r\nThank you. For everything you have done. We are in your debt."
+  },
+  "ffs2_f5_5" : {
+    "type" : "mission",
+    "senderName" : "Maj.Lily",
+    "portraitImage" : "/interface/chatbubbles/ffs_lily.png:<frame>",
+    "text" : "^white;Copy that, Sergeant. Me and Alice will be here to protect the Engineering team in case of any trouble.\r\nGood luck."
+  },
+  "ffs2_lastboss_0_1" : {
+    "type" : "mission",
+    "senderName" : "Dr.Breadnut",
+    "portraitImage" : "/interface/chatbubbles/ffs_breadnut.png:<frame>",
+    "text" : "^white;I just got the news- I heard that you rescured the SRS Director general. Excellent work! I knew you could do it. Do not rest easy just yet, though. We now have to get the Director out of there alive, ASAP!"
+  },
+  "ffs2_lastboss_0_2" : {
+    "type" : "mission",
+    "senderName" : "Player",
+    "portraitImage" : "/interface/chatbubbles/ffs_player.png:<frame>",
+    "text" : "^white;Sorry, Doctor. That's not going to be possible, yet.\r\nPSS White crow is under attack and many lives are in danger. They need our help. And I'll do whatever it takes to see this through."
+  },
+  "ffs2_lastboss_0_3" : {
+    "type" : "mission",
+    "senderName" : "Dr.Breadnut",
+    "portraitImage" : "/interface/chatbubbles/ffs_breadnut.png:<frame>",
+    "text" : "^white;..You're right. Abandoning the SRS now will jeopardize our chances of victory. But, remember. If we lose the General, we will lose all access authorization to the SRS main facilities on Mars. And perhaps, we may lose the SRS itself."
+  },
+  "ffs2_lastboss_0_4" : {
+    "type" : "mission",
+    "senderName" : "Dr.Breadnut",
+    "portraitImage" : "/interface/chatbubbles/ffs_breadnut.png:<frame>",
+    "text" : "^white;My research cannot continue without that crucial equipment...^green;*Sigh^white;..While I know there is nothing I can do to help from here...Agent, please remember.\r\nDon't push yourself too hard. Breadnut out."
+  },
+  "ffs2_lastboss_0_5" : {
+    "type" : "mission",
+    "senderName" : "Maj.Lily",
+    "portraitImage" : "/interface/chatbubbles/ffs_lily_smile.png:<frame>",
+    "text" : "^white;Ahem- I can hear you, Breadnut. We're not going to abandon ship. We're going to save it.\r\nAnd~ hey, nuts.\r\nI'm your boss, remember..?"
+  },
+  "ffs2_lastboss_0_6" : {
+    "type" : "mission",
+    "senderName" : "Nadya",
+    "portraitImage" : "/interface/chatbubbles/ffs_nadya.png:<frame>",
+    "text" : "^white;Battle preparations are complete. From now on, Dropship support is on standby and awaiting your command. Use the ^yellow;red smoke^white; signal for marking your target. ^green;You can find the smoke signal grenades^white; by going ^green;west along frontline.^white; Good luck."
+  },
+  "ffs2_lastboss_0_7" : {
+    "type" : "mission",
+    "senderName" : "Sgt.Max",
+    "portraitImage" : "/interface/chatbubbles/ffs_max.png:<frame>",
+    "text" : "^white;It's not over. \r\nThey will attack from the west. \r\nDefensive positions!\r\n..This is going be a long night."
+  },
+  "ffs2_lastboss_0_8" : {
+    "type" : "mission",
+    "senderName" : "Pvt.Jessie",
+    "portraitImage" : "/interface/chatbubbles/ffs_jessie.png:<frame>",
+    "text" : "^white;Eh..?\r\nSir, can you see that ^green;orange light^white; in the sky?"
+  },
+  "ffs2_lastboss_0_9" : {
+    "type" : "mission",
+    "senderName" : "Sgt.Max",
+    "portraitImage" : "/interface/chatbubbles/ffs_max.png:<frame>",
+    "text" : "^white;Damnit... Retreat!!\r\n^yellow;Agent, ALL UNITS, RETREAT!!!"
+  },
+  "ffs2_lastboss_1_1" : {
+    "type" : "mission",
+    "senderName" : "Sgt.Max",
+    "portraitImage" : "/interface/chatbubbles/ffs_max.png:<frame>",
+    "text" : "^white;All units, push harder!\r\nWe must stop it no matter what!"
+  },
+  "ffs2_lastboss_1_2" : {
+    "type" : "mission",
+    "senderName" : "Col.Xander",
+    "portraitImage" : "/interface/chatbubbles/ffs_xander_fight.png:<frame>",
+    "text" : "^white;The main guns of the enemy ship are pointing at us.\r\nAll units, Brace for impact! \r\n^yellow;INCOMING!!"
+  },
+  "ffs2_lastboss_1_3" : {
+    "type" : "mission",
+    "senderName" : "Pvt.Jessie",
+    "portraitImage" : "/interface/chatbubbles/ffs_jessie.png:<frame>",
+    "text" : "^white;Brace for impact..!\r\nCommander! The enemy is on board!\r\nEnemies are coming through the vents!\r\nEngaging the enemy!"
+  },
+  "ffs2_lastboss_1_4" : {
+    "type" : "mission",
+    "senderName" : "Sgt.Max",
+    "portraitImage" : "/interface/chatbubbles/ffs_max.png:<frame>",
+    "text" : "^white;Agent!\r\nClear the lobby! Sector sweep and secure the Engineering Bay!\r\nWe're outnumbered! We have to use FTL drive, right now!"
+  },
+  "ffs2_lastboss_1_5" : {
+    "type" : "mission",
+    "senderName" : "Maj.Lily",
+    "portraitImage" : "/interface/chatbubbles/ffs_lily_smile.png:<frame>",
+    "text" : "^white;..Alice.\r\nAgain?                       \r\nReally?"
+  },
+  "ffs2_lastboss_1_6" : {
+    "type" : "mission",
+    "senderName" : "Lt.Alice",
+    "portraitImage" : "/interface/chatbubbles/ffs_alice_hurt.png:<frame>",
+    "text" : "^white;...\r\nI'm...                   \r\nsorry.. ma'am."
+  },
+  "ffs2_lastboss_1_7" : {
+    "type" : "mission",
+    "senderName" : "Maj.Lily",
+    "portraitImage" : "/interface/chatbubbles/ffs_lily.png:<frame>",
+    "text" : "^white;heh heh, Don't be so hard on yourself, Alice. \r\nIt was a joke. Agent. As you can tell, I have to stay with the Lieutenant. ^green;Help the Engineers^white; secure the Engine bay, and get us out of here!"
+  },
+  "ffs2_lastboss_1_8" : {
+    "type" : "mission",
+    "senderName" : "PFC.Nemui",
+    "portraitImage" : "/interface/chatbubbles/ffs_nemui_scared.png:<frame>",
+    "text" : "^white;Agent!\r\n^yellow;HELP!"
+  },
+  "ffs2_lastboss_1_9" : {
+    "type" : "mission",
+    "senderName" : "SSG.Rebecca",
+    "portraitImage" : "/interface/chatbubbles/ffs_rebecca.png:<frame>",
+    "text" : "^white;Agent!\r\nPlease protect us while we repair the energy shield generator!\r\nNemu! Be careful!"
+  },
+  "ffs2_lastboss_1_10" : {
+    "type" : "mission",
+    "senderName" : "PFC.Nemui",
+    "portraitImage" : "/interface/chatbubbles/ffs_nemui_scared.png:<frame>",
+    "text" : "^white;That! That machine!\r\nWe have to establish hotline communication with the Bridge!"
+  },
+  "ffs2_lastboss_1_11" : {
+    "type" : "mission",
+    "senderName" : "SSG.Rebecca",
+    "portraitImage" : "/interface/chatbubbles/ffs_rebecca.png:<frame>",
+    "text" : "^white;Agent!! The FTL Drive is ready! Get that hotline- What? Are you sure? The hotline is already cut?! Then, ^green;We need to contact the bridge^white;, ASAP! Agent! Leave this place to us and go! \r\n^green;Go tell them FTL drive is ready!"
+  },
+  "ffs2_lastboss_1_12" : {
+    "type" : "mission",
+    "senderName" : "SWAT Blue team",
+    "portraitImage" : "/interface/chatbubbles/ffs_swat_blue.png:<frame>",
+    "text" : "^white;Intruder!\r\nProtect the civilians!"
+  },
+  "ffs2_lastboss_1_13" : {
+    "type" : "mission",
+    "senderName" : "SWAT Blue team",
+    "portraitImage" : "/interface/chatbubbles/ffs_swat_blue_dying.png:<frame>",
+    "text" : "^red;AAAAAAAARGH!"
+  },
+  "ffs2_lastboss_1_14" : {
+    "type" : "mission",
+    "senderName" : "Player",
+    "portraitImage" : "/interface/chatbubbles/ffs_player.png:<frame>",
+    "text" : "^white;That scan pannel.. \r\nMaybe I can open a hotline channel on it!\r\nI have to try it."
+  },
+  "ffs2_lastboss_1_15" : {
+    "type" : "mission",
+    "senderName" : "Player",
+    "portraitImage" : "/interface/chatbubbles/ffs_player.png:<frame>",
+    "text" : "^white;The bridge.. It's close.. Only a little further.."
+  },
+  "ffs2_lastboss_1_16" : {
+    "type" : "mission",
+    "senderName" : "Col.Xander",
+    "portraitImage" : "/interface/chatbubbles/ffs_xander_fight.png:<frame>",
+    "text" : "^white;This is bridge. Go ahead.\r\nEngineering team. Do you copy?\r\nAnswer me!"
+  },
+  "ffs2_lastboss_1_17" : {
+    "type" : "mission",
+    "senderName" : "Player",
+    "portraitImage" : "/interface/chatbubbles/ffs_player.png:<frame>",
+    "text" : "^white;Captain!\r\n^yellow;FTL DRIVE IS READY!!"
+  },
+  "ffs2_lastboss_1_18" : {
+    "type" : "mission",
+    "senderName" : "Col.Xander",
+    "portraitImage" : "/interface/chatbubbles/ffs_xander_fight.png:<frame>",
+    "text" : "^white;Copy that, Agent!! Good work!\r\nPilot, Activate the FTL jump, immediately! Get us out of here!"
+  },
+  "ffs2_lastboss_1_19" : {
+    "type" : "mission",
+    "senderName" : "White Crow Crew",
+    "portraitImage" : "/interface/chatbubbles/ffs_whitecrow_crew.png:<frame>",
+    "text" : "^white;Roger that, captain. ^green;FTL jump, initializing.. Complete.\r\n^green;Starting FTL Drive.. Activating FTL jump.            \r\n^red;Warning, Enemy ship detected! \r\n^red;Jumping sequence aborted!\r\n^white;Activate Evasive Maneuver Assist. ^red;Unable to comply!"
+  },
+  "ffs2_lastboss_1_20" : {
+    "type" : "mission",
+    "senderName" : "Col.Xander",
+    "portraitImage" : "/interface/chatbubbles/ffs_xander_fight.png:<frame>",
+    "text" : "^#858585;..They chased us. The enemy ship has an Warp signal jammer. ^green;All units, Get ready to board the enemy ship.^white; This is our last chance! Pilot, Prepare the ship for a full speed attack. We're not going down here. ^green;We're going to give it everything we've got!^white;"
+  },
+  "ffs2_lastboss_1_21" : {
+    "type" : "mission",
+    "senderName" : "System",
+    "portraitImage" : "/interface/chatbubbles/ffs_system.png:<frame>",
+    "text" : 
+	"^red;Warning.^white; You are approaching ^red;anaerobic space. ^white;Please equip the ^green;Space Suit^white;. Attach the provided ^green;Oxygen Tanks^white; to the suit before entering space. Don't forget to take a ^green;P119SR-Astro^white; with you in the nearby storage. Good luck."
+
+  },
+  "ffs2_lastboss_2_1" : {
+    "type" : "mission",
+    "senderName" : "Col.Xander",
+    "portraitImage" : "/interface/chatbubbles/ffs_xander_fight.png:<frame>",
+    "text" : "^#858585;Ugh...^white;Pilot, Keep firing! \r\n^green;Agent, Don't jump into the line of fire!^white; It's too dangerous! \r\n^green;Pass through under the enemy ship!^white;\r\nThat's the only way to get there alive!"
+  },
+  "ffs2_lastboss_2_2" : {
+    "type" : "mission",
+    "senderName" : "Nadya",
+    "portraitImage" : "/interface/chatbubbles/ffs_nadya.png:<frame>",
+    "text" : "^white;Agent, Enemy fire power is too strong! We won't be able to withstand it much longer! They've already built up an anti-air fire net. Our frontline has already collapsed. \r\nWe need to return for a resupply. Don't die!"
+  },
+  "ffs2_lastboss_2_3" : {
+    "type" : "mission",
+    "senderName" : "Player",
+    "portraitImage" : "/interface/chatbubbles/ffs_player.png:<frame>",
+    "text" : "^white;What the hell is this..?"
+  },
+  "ffs2_lastboss_2_4" : {
+    "type" : "mission",
+    "senderName" : "Col.Xander",
+    "portraitImage" : "/interface/chatbubbles/ffs_xander_fight.png:<frame>",
+    "text" : "^white;Wait, The enemy attack has died down. Somebody must have infiltrated that ship.\r\nPilot, Aim for the F.P. of the enemy ship!\r\nAvoid hitting the Starboard side!"
+  },
+  "ffs2_lastboss_2_5" : {
+    "type" : "mission",
+    "senderName" : "White Crow Crew",
+    "portraitImage" : "/interface/chatbubbles/ffs_whitecrow_crew.png:<frame>",
+    "text" : "^white;Yes captain!"
+  },
+  "ffs2_lastboss_2_6" : {
+    "type" : "mission",
+    "senderName" : "Player",
+    "portraitImage" : "/interface/chatbubbles/ffs_player.png:<frame>",
+    "text" : "^white;Ok, I found the main power source of enemy ship.\r\nLet's blow it to hell!!"
+  },
+  "ffs2_lastboss_2_7" : {
+    "type" : "mission",
+    "senderName" : "Player",
+    "portraitImage" : "/interface/chatbubbles/ffs_player.png:<frame>",
+    "text" : "^white;I've found bunch of strange wiring..\r\nThis looks important.."
+  },
+  "ffs2_lastboss_2_8" : {
+    "type" : "mission",
+    "senderName" : "Player",
+    "portraitImage" : "/interface/chatbubbles/ffs_player.png:<frame>",
+    "text" : "^white;Oh, my God!\r\nWhat have they done here?\r\nIs that.... Is that The Engine?\r\nHoly hell, EAT THIS!!"
+  },
+  "ffs2_lastboss_2_9" : {
+    "type" : "mission",
+    "senderName" : "Nadya",
+    "portraitImage" : "/interface/chatbubbles/ffs_nadya.png:<frame>",
+    "text" : "^white;Agent! \r\nAre you there?! Respond!!\r\nThe ship is going to be exploded!!\r\nGet out of there! Quickly!"
+  },
+  "ffs2_lastboss_2_10" : {
+    "type" : "mission",
+    "senderName" : "Player",
+    "portraitImage" : "/interface/chatbubbles/ffs_player.png:<frame>",
+    "text" : "^white;No, I.. I'm almost there.\r\nI think I have found the enemy ship's core."
+  },
+  "ffs2_lastboss_2_11" : {
+    "type" : "mission",
+    "senderName" : "Integrated Mind",
+    "portraitImage" : "/interface/chatbubbles/ffs_integratedmind.png:<frame>",
+    "text" : "^white;^#df03fc;Cause of error identified. Bandwidth overload detected.\r\n^#df03fc;Running LOTUS01 uninstall protocol.\r\n^red;Warning!\r\n^red;Suicide to alleviate extreme pain is recommended."
+  },
+  "ffs2_lastboss_2_12" : {
+    "type" : "mission",
+    "senderName" : "Player",
+    "portraitImage" : "/interface/chatbubbles/ffs_player.png:<frame>",
+    "text" : "^white;Ok, Mission complete!\r\nI'm returning to White Crow."
+  }
+}

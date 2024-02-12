@@ -1,0 +1,1542 @@
+[
+  {
+    "op": "replace",
+    "path": "/ffs2_7_1/senderName",
+    "value": "ХУЙ"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_7_1/text",
+    "value": "123123"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_7_cultist_1/senderName",
+    "value": "Cultist"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_7_cultist_1/text",
+    "value": "asd"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_7_cultist_2/senderName",
+    "value": "Cultist"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_7_cultist_2/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_7_cultist_3/senderName",
+    "value": "Cultist"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_7_cultist_3/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_8_1/senderName",
+    "value": "ХУЙ"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_8_1/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_8_cultist_1/senderName",
+    "value": "Cultist"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_8_cultist_1/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_9_1/senderName",
+    "value": "ХУЙ"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_9_1/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_9_2/senderName",
+    "value": "Player"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_9_2/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_9_3/senderName",
+    "value": "ХУЙ"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_9_3/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_9_4/senderName",
+    "value": "Chiquita"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_9_4/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_9_5/senderName",
+    "value": "Player"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_9_5/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_9_6/senderName",
+    "value": "Papacino"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_9_6/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_9_7/senderName",
+    "value": "Player"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_9_7/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_e_1/senderName",
+    "value": "Player"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_e_1/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_e_2/senderName",
+    "value": "Player"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_e_2/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_e_3/senderName",
+    "value": "Papacino"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_e_3/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_e_4/senderName",
+    "value": "Chiquita"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_e_4/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f_1/senderName",
+    "value": "Player"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f_1/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f_2/senderName",
+    "value": "Player"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f_2/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f_3/senderName",
+    "value": "Player"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f_3/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f_4/senderName",
+    "value": "Player"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f_4/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f_cultist_1/senderName",
+    "value": "High Cultist"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f_cultist_1/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f_cultist_2/senderName",
+    "value": "High Cultist"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f_cultist_2/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_1/senderName",
+    "value": "Player"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_1/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_2/senderName",
+    "value": "High Cultist"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_2/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_3/senderName",
+    "value": "Sgt.Max"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_3/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_4/senderName",
+    "value": "Sgt.Max"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_4/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_5/senderName",
+    "value": "Sgt.Max"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_5/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_6/senderName",
+    "value": "Sgt.Max"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_6/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_7/senderName",
+    "value": "Sgt.Max"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_7/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_8/senderName",
+    "value": "SWAT Blue team"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_8/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_9/senderName",
+    "value": "SWAT Red team"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_9/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_10/senderName",
+    "value": "Sgt.Max"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_10/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_11/senderName",
+    "value": "SWAT Red team"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_11/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_12/senderName",
+    "value": "Sgt.Max"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_12/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_13/senderName",
+    "value": "SWAT Red team"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_13/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_14/senderName",
+    "value": "Sgt.Max"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_14/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_15/senderName",
+    "value": "SWAT Red team"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_15/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_16/senderName",
+    "value": "SWAT Blue team"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_16/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_17/senderName",
+    "value": "Sgt.Max"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_17/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_18/senderName",
+    "value": "Sgt.Max"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_18/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_19/senderName",
+    "value": "Sgt.Max"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_19/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_20/senderName",
+    "value": "Pvt.Jessie"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_20/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_21/senderName",
+    "value": "Sgt.Max"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_21/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_22/senderName",
+    "value": "Pvt.Jessie"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_22/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_23/senderName",
+    "value": "Sgt.Max"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_23/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_24/senderName",
+    "value": "Pvt.Jessie"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_24/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_25/senderName",
+    "value": "Player"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_25/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_26/senderName",
+    "value": "Pvt.Jessie"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_26/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_27/senderName",
+    "value": "Sgt.Max"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_27/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_28/senderName",
+    "value": "Pvt.Jessie"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_28/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_29/senderName",
+    "value": "Player"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_29/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_30/senderName",
+    "value": "Pvt.Jessie"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_30/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_31/senderName",
+    "value": "Sgt.Max"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_31/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_32/senderName",
+    "value": "Pvt.Jessie"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_32/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_33/senderName",
+    "value": "Sgt.Max"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_33/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_34/senderName",
+    "value": "Player"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f2_34/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_1/senderName",
+    "value": "Pvt.Jessie"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_1/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_2/senderName",
+    "value": "Sgt.Max"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_2/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_3/senderName",
+    "value": "Pvt.Jessie"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_3/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_4/senderName",
+    "value": "Sgt.Max"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_4/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_5/senderName",
+    "value": "Pvt.Jessie"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_5/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_6/senderName",
+    "value": "Player"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_6/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_7/senderName",
+    "value": "???"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_7/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_8/senderName",
+    "value": "High Cultist"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_8/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_9/senderName",
+    "value": "???"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_9/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_10/senderName",
+    "value": "???"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_10/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_11/senderName",
+    "value": "Lt.Alice"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_11/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_12/senderName",
+    "value": "???"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_12/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_13/senderName",
+    "value": "Player"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_13/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_14/senderName",
+    "value": "???"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_14/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_15/senderName",
+    "value": "???"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_15/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_16/senderName",
+    "value": "Player"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_16/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_17/senderName",
+    "value": "???"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_17/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_18/senderName",
+    "value": "???"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_18/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_19/senderName",
+    "value": "???"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_19/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_20/senderName",
+    "value": "???"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_20/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_21/senderName",
+    "value": "Lt.Alice"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_21/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_22/senderName",
+    "value": "???"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_22/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_23/senderName",
+    "value": "Player"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f3_23/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_1/senderName",
+    "value": "Lt.Alice"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_1/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_2/senderName",
+    "value": "???"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_2/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_3/senderName",
+    "value": "Player"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_3/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_4/senderName",
+    "value": "Maj.Lily"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_4/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_5/senderName",
+    "value": "Lt.Alice"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_5/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_6/senderName",
+    "value": "Player"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_6/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_7/senderName",
+    "value": "Lt.Alice"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_7/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_8/senderName",
+    "value": "Maj.Lily"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_8/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_10/senderName",
+    "value": "Lt.Alice"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_10/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_11/senderName",
+    "value": "Maj.Lily"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_11/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_14/senderName",
+    "value": "Lt.Alice"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_14/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_16/senderName",
+    "value": "???"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_16/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_17/senderName",
+    "value": "???"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_17/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_18/senderName",
+    "value": "Lt.Alice"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_18/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_19/senderName",
+    "value": "PFC.Nemui"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_19/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_20/senderName",
+    "value": "SSG.Rebecca"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_20/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_21/senderName",
+    "value": "SSG.Rebecca"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_21/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_22/senderName",
+    "value": "Maj.Lily"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_22/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_23/senderName",
+    "value": "Lt.Alice"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_23/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_24/senderName",
+    "value": "Maj.Lily"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_24/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_25/senderName",
+    "value": "PFC.Nemui"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_25/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_26/senderName",
+    "value": "Maj.Lily"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_26/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_27/senderName",
+    "value": "PFC.Nemui"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_27/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_28/senderName",
+    "value": "Maj.Lily"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_28/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_29/senderName",
+    "value": "SSG.Rebecca"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_29/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_30/senderName",
+    "value": "Lt.Alice"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_30/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_31/senderName",
+    "value": "SSG.Rebecca"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f4_31/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f5_1/senderName",
+    "value": "Col.Xander"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f5_1/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f5_2/senderName",
+    "value": "Col.Xander"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f5_2/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f5_3/senderName",
+    "value": "Col.Xander"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f5_3/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f5_4/senderName",
+    "value": "Sgt.Max"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f5_4/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f5_5/senderName",
+    "value": "Maj.Lily"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_f5_5/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_0_1/senderName",
+    "value": "Dr.Breadnut"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_0_1/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_0_2/senderName",
+    "value": "Player"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_0_2/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_0_3/senderName",
+    "value": "Dr.Breadnut"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_0_3/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_0_4/senderName",
+    "value": "Dr.Breadnut"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_0_4/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_0_5/senderName",
+    "value": "Maj.Lily"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_0_5/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_0_6/senderName",
+    "value": "ХУЙ"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_0_6/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_0_7/senderName",
+    "value": "Sgt.Max"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_0_7/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_0_8/senderName",
+    "value": "Pvt.Jessie"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_0_8/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_0_9/senderName",
+    "value": "Sgt.Max"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_0_9/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_1/senderName",
+    "value": "Sgt.Max"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_1/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_2/senderName",
+    "value": "Col.Xander"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_2/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_3/senderName",
+    "value": "Pvt.Jessie"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_3/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_4/senderName",
+    "value": "Sgt.Max"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_4/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_5/senderName",
+    "value": "Maj.Lily"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_5/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_6/senderName",
+    "value": "Lt.Alice"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_6/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_7/senderName",
+    "value": "Maj.Lily"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_7/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_8/senderName",
+    "value": "PFC.Nemui"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_8/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_9/senderName",
+    "value": "SSG.Rebecca"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_9/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_10/senderName",
+    "value": "PFC.Nemui"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_10/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_11/senderName",
+    "value": "SSG.Rebecca"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_11/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_12/senderName",
+    "value": "SWAT Blue team"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_12/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_13/senderName",
+    "value": "SWAT Blue team"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_13/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_14/senderName",
+    "value": "Player"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_14/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_15/senderName",
+    "value": "Player"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_15/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_16/senderName",
+    "value": "Col.Xander"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_16/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_17/senderName",
+    "value": "Player"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_17/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_18/senderName",
+    "value": "Col.Xander"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_18/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_19/senderName",
+    "value": "White Crow Crew"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_19/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_20/senderName",
+    "value": "Col.Xander"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_20/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_21/senderName",
+    "value": "System"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_1_21/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_2_1/senderName",
+    "value": "Col.Xander"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_2_1/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_2_2/senderName",
+    "value": "ХУЙ"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_2_2/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_2_3/senderName",
+    "value": "Player"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_2_3/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_2_4/senderName",
+    "value": "Col.Xander"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_2_4/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_2_5/senderName",
+    "value": "White Crow Crew"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_2_5/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_2_6/senderName",
+    "value": "Player"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_2_6/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_2_7/senderName",
+    "value": "Player"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_2_7/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_2_8/senderName",
+    "value": "Player"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_2_8/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_2_9/senderName",
+    "value": "ХУЙ"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_2_9/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_2_10/senderName",
+    "value": "Player"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_2_10/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_2_11/senderName",
+    "value": "Integrated Mind"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_2_11/text",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_2_12/senderName",
+    "value": "Player"
+  },
+  {
+    "op": "replace",
+    "path": "/ffs2_lastboss_2_12/text",
+    "value": ""
+  }
+]
