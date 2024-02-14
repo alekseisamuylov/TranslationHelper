@@ -1,23 +1,23 @@
-import { object } from 'prop-types';
+import { shape } from 'prop-types';
 
-import ListItem from '../listItem/ListItem.jsx';
+import ListItem from '../listItem/ListItem';
 
-import { ListWrapper, ObjectData, Title } from './style.js';
+import { ListWrapper, ObjectData, Title } from './style';
 
 export default function List({ listRU, listEN }) {
-    return (
-        <ListWrapper>
-            {Object.entries(listRU).map(obj => (
-                <ObjectData key={obj[0]}>
-                    <Title>{obj[0]}</Title>
-                    <ListItem itemRU={obj[1]} itemEN={listEN[obj[0]]} />
-                </ObjectData>
-            ))}
-        </ListWrapper>
-    )
+  return (
+    <ListWrapper>
+      {Object.entries(listRU).map(obj => (
+        <ObjectData key={obj[0]}>
+          <Title>{obj[0]}</Title>
+          <ListItem itemRU={obj[1]} itemEN={listEN[obj[0]]} />
+        </ObjectData>
+      ))}
+    </ListWrapper>
+  );
 }
 
 List.propTypes = {
-    listRU: object.isRequired,
-    listEN: object.isRequired
+  listRU: shape({}).isRequired,
+  listEN: shape({}).isRequired,
 };

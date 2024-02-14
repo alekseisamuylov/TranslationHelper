@@ -1,14 +1,13 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect } from 'react';
 
-import { getFiles, saveTranslate } from './api.js';
+import { getFiles, saveTranslate } from './api';
 
-import List from './components/list/List.jsx';
-import SaveButton from './components/saveButton/SaveButton.jsx';
-
+import List from './components/list/List';
+import SaveButton from './components/saveButton/SaveButton';
 
 function App() {
-  const [translatedValues, setTranslatedValues] = useState({})
-  const [originalValues, setOriginalValues] = useState({})
+  const [translatedValues, setTranslatedValues] = useState({});
+  const [originalValues, setOriginalValues] = useState({});
 
   useEffect(() => {
     async function init() {
@@ -20,42 +19,44 @@ function App() {
       Object.keys(data.en).forEach(key => {
         preparedData[key] = {
           name: {
-            "op": "replace",
-            "path": `/${key}/senderName`,
-            "value": data.en[key].senderName
+            op: 'replace',
+            path: `/${key}/senderName`,
+            value: data.en[key].senderName,
           },
           text: {
-            "op": "replace",
-            "path": `/${key}/text`,
-            "value": ""
-          }
-        }
+            op: 'replace',
+            path: `/${key}/text`,
+            value: '',
+          },
+        };
 
-        const preparedTranslation = data.ru.filter(el => el.path.includes(`/${key}/`) && el.value);
+        const preparedTranslation = data.ru.filter(
+          el => el.path.includes(`/${key}/`) && el.value,
+        );
+
+        const [first, second] = preparedTranslation;
 
         if (preparedTranslation.length) {
-          if (preparedTranslation[0].path.includes('text')) {
-            preparedData[key].name = preparedTranslation[1];
-            preparedData[key].text = preparedTranslation[0] || preparedData[key].text;
+          if (first.path.includes('text')) {
+            preparedData[key].name = second;
+            preparedData[key].text = first || preparedData[key].text;
           } else {
-            preparedData[key].name = preparedTranslation[0];
-            preparedData[key].text = preparedTranslation[1] || preparedData[key].text;
+            preparedData[key].name = first;
+            preparedData[key].text = second || preparedData[key].text;
           }
         }
-
 
         originalData[key] = {
           name: data.en[key].senderName,
-          text: data.en[key].text
-        }
+          text: data.en[key].text,
+        };
       });
-
 
       setTranslatedValues(preparedData);
       setOriginalValues(originalData);
     }
     init();
-  }, [])
+  }, []);
 
   // useEffect(() => {
   //   setInterval(() => {
@@ -71,8 +72,6 @@ function App() {
       result.push(item.text);
     });
 
-    console.log(translatedValues);
-
     saveTranslate(result);
   }
 
@@ -81,7 +80,7 @@ function App() {
       <List listRU={translatedValues} listEN={originalValues} />
       <SaveButton onSave={() => onSave()} />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
